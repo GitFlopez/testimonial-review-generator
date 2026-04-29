@@ -1,0 +1,10 @@
+{
+  "name": "testimonial-review-generator",
+  "version": "1.0.0",
+  "description": "ClawHub skill: testimonial-review-generator",
+  "license": "MIT-0",
+  "openclaw": {
+    "type": "skill",
+    "category": "productivity"
+  }
+}
